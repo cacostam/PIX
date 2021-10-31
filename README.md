@@ -1,0 +1,2 @@
+# PIX
+tablas pixeles puros
